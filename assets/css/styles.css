@@ -1,0 +1,18 @@
+.foto_item{
+	width: 150px;
+	height: 200px;
+	float: left;
+	margin: 4px;
+}
+.foto_item img{
+	width: 150px;
+}
+.nummembro{
+	/* display: flex ; */
+	color: #bf360c ;
+}
+.nummembro h1{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
